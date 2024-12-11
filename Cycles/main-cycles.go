@@ -19,7 +19,7 @@ func main() {
 
 	if name == "AnatolyShchurenko" {
 
-		if rapper == true {
+		if rapper {
 			fmt.Println("Анатолий трушный репер!!!")
 		} else {
 			fmt.Println("Анатолий не трушный репер :(")
