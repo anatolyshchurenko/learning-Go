@@ -15,11 +15,11 @@ func main() {
 	//}
 
 	name := "AnatolyShchurenko"
-	raper := true
+	rapper := true
 
 	if name == "AnatolyShchurenko" {
 
-		if raper == true {
+		if rapper == true {
 			fmt.Println("Анатолий трушный репер!!!")
 		} else {
 			fmt.Println("Анатолий не трушный репер :(")
