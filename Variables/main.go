@@ -11,4 +11,8 @@ func main() {
 	raper := true
 
 	fmt.Println(name, age, raper)
+
+	// еще способы создания переменных
+	//var test float32 -- создание переменной типа float
+	//var test uint -- создание переменной типа uint (от нуля до бесконечность, ТОЛЬКО ПОЛОЖИТЕЛЬНЫЕ ЧИСЛА)
 }
