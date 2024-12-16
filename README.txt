@@ -1,13 +1,8 @@
-что бы любой скрипт работал, нужно создать mod.go. для этого зайдя в папку, в которой вы хотите создать этот модуль, нужно в
-в терминале написать эти программы
+это мои первые шаги в программировании, не судите строго, пж
 
-для начала указать путь к файлу, у меня например c:\ANATOLY\GO\learning-Go\Cycles  
+вот мои сотсети:
 
-потом написать go mod init "название_вашего_модуля"  
-
-пример: go mod init learning-Go  
-
-для создания мода в ручную: module "название_вашего_модуля"
-                            go 1.23.4
-
-фишка от Артема: ctrl + shift и стераем коменты .
+ск   https://soundcloud.com/anatolyshchurenko
+инст https://www.instagram.com/anatoliishchurenko/
+дс   anatoliishchurenko
+тг   https://t.me/anatolycore
