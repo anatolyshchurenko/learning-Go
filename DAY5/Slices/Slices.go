@@ -17,6 +17,11 @@ func main() {
 	sort.Strings(slicestr)                              //сортировка слайса по алфавиту
 	fmt.Println(slicestr, ": отсортированная версия")   //выводит отсортированный слайс
 
+	//el == slice[i]
+	for _, el := range slice { // перебор элементов в массиве
+		fmt.Printf("%d\n", el) //вывод номера массива и его элемента
+	}
+
 	//made by Anatoly Shchurenko
 
 }
