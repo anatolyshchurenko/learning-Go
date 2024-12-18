@@ -6,14 +6,14 @@ func made() {
 	fmt.Println("made by Anatoly Shchrenko")
 }
 
-func math_func(a int, b int) (int, int, int, int) {
+func math_func(a float32, b float32) (float32, float32, float32, float32) {
 
-	sum := a + b
-	sub := a - b
-	mul := a * b
-	div := a / b
+	sum := a + b //сумма
+	sub := a - b //разность
+	mul := a * b //умножение
+	div := a / b //деление
 
-	return sum, sub, mul, div
+	return sum, sub, mul, div //возвращаю
 
 }
 
